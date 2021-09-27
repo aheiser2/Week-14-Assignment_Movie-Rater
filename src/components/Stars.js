@@ -26,3 +26,13 @@ const Stars = () => {
 };
 
 export default Stars;
+
+
+//based on code from Michael Burrows from w3collective
+
+
+
+
+
+
+
